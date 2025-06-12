@@ -103,3 +103,4 @@ python app.py data/input.jpg
 2. LPRNet模型来源于[airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo?tab=readme-ov-file)
 
 ## 许可证
+[Apache License 2.0](./LICENSE)
